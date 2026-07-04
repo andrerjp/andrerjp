@@ -1,137 +1,50 @@
-# Hi there! 👋 I'm André Carvalho
+# Olá, eu sou o André 👋
 
-### Cloud Computing Graduate | DevOps Student | AWS Certified Cloud Practitioner
+Suporte Técnico N2 em transição para **Cloud / DevOps** | AWS Certified Cloud Practitioner | Estudando para o SAA-C03
 
-Welcome to my GitHub!
+## 🚀 Sobre mim
 
-I'm an IT professional with over 10 years of experience in Technical Support, Infrastructure, Networking, Microsoft Technologies, and SQL Server.
+Mais de 15 anos de experiência em TI, com foco em suporte técnico e infraestrutura. Atualmente migrando minha carreira para a área de Cloud Computing e DevOps, unindo minha bagagem prática de infraestrutura com certificações AWS e projetos hands-on.
 
-After years working in IT operations and support, I'm now focused on building my career in Cloud Computing, Infrastructure, and DevOps by combining my professional experience with hands-on projects and continuous learning.
+Gosto de automatizar processos, organizar ambientes e transformar bagunça operacional em algo estruturado e monitorável.
 
----
+## 🛠️ Stack e Tecnologias
 
-## 🚀 About Me
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-- 💼 10+ years of experience in Information Technology
-- 🎓 Graduate in Cloud Computing
-- 📚 Currently studying DevOps
-- ☁️ AWS Certified Cloud Practitioner
-- 🖥️ Strong background in Technical Support and Infrastructure
-- 🌱 Passionate about Cloud, Linux, Automation and DevOps
-- 📖 Always learning new technologies
+## 🎓 Certificações
 
----
+- ✅ **AWS Certified Cloud Practitioner (CLF-C02)**
+- ✅ **ITIL V3**  
+- ✅ **Cobit 5** 
+- 🔄 **AWS Certified Solutions Architect Associate (SAA-C03)** — em preparação
 
-## 🛠️ Technologies & Tools
 
-### ☁️ Cloud
-- AWS
+## 🎓 Escolaridade
 
-### 💻 Operating Systems
-- Linux
-- Windows Server
+- ✅ **Tecnologia da Informação** — UNISUAM
+- ✅ **MBA em Cloud Computing** — UNOPAR
+- 🔄 **Pós-graduação em DevOps** — UNOPAR (em andamento)
+ 
 
-### 🏗️ Infrastructure
-- Active Directory
-- Microsoft 365
-- Networking
-- DNS
-- DHCP
+## 📌 Projeto em destaque
 
-### 🗄️ Databases
-- SQL Server
+### 🖥️ [Infra Monitoring Stack — GLPI + Zabbix + Grafana](https://github.com/andrerjp)
+Ambiente de monitoramento e gestão de TI containerizado, rodando GLPI, Zabbix e Grafana via Docker Compose sobre Hyper-V/Ubuntu. Projeto criado para consolidar na prática conceitos de infraestrutura, containers e observabilidade — próximo passo é migrar o ambiente para AWS (ECS Fargate ou EC2).
 
-### ⚙️ Automation
-- PowerShell
-- Git
-- GitHub
+## 📊 GitHub Stats
 
-### 📚 Currently Learning
-- Terraform
-- Docker
-- Kubernetes
-- GitHub Actions
-- Python
-- CI/CD
-- Infrastructure as Code (IaC)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andrerjp&show_icons=true&theme=default)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andrerjp&layout=compact)
 
----
+## 📫 Contato
 
-## 🏆 Certifications
-
-- ✅ AWS Certified Cloud Practitioner
-- ✅ ITIL Foundation
-- ✅ COBIT Foundation
-- ✅ Microsoft Certified Solutions Associate (MCSA)
-
----
-
-## 🚀 Featured Projects
-
-These repositories document my learning journey and hands-on experience.
-
-📁 AWS Labs
-
-Practical AWS projects covering networking, compute, storage, IAM, and monitoring.
-
-📁 Linux Labs
-
-Linux administration, shell scripting, and system management.
-
-📁 Terraform Labs
-
-Infrastructure as Code projects using Terraform.
-
-📁 Docker Labs
-
-Containerization and Docker Compose examples.
-
-📁 Kubernetes Labs
-
-Deployments, Services, ConfigMaps, and cluster management.
-
-📁 PowerShell Scripts
-
-Automation scripts for Windows administration.
-
-📁 Network Documentation
-
-Networking diagrams, VLANs, DNS, DHCP, and infrastructure documentation.
-
----
-
-## 🎯 Career Goal
-
-My goal is to work as a:
-
-- Cloud Engineer
-- Infrastructure Engineer
-- DevOps Engineer
-
-I'm continuously improving my technical skills through practical projects, certifications, and real-world experience.
-
----
-
-## 📈 GitHub Goals
-
-✔ Build practical cloud projects
-
-✔ Improve Infrastructure as Code skills
-
-✔ Share knowledge with the community
-
-✔ Continuously learn and improve
-
----
-
-## 🤝 Connect with Me
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/andrecarvalho1987
-
----
-
-⭐ Thanks for visiting my profile!
-
-Feel free to explore my repositories and follow my learning journey.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrecarvalho1987)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrerjp@gmail.com)
